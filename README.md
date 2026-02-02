@@ -1,10 +1,10 @@
 # Hi, I’m Danylo 👋
 
 🎓 Student Software Developer based in Switzerland  
-🇺🇦 Ukrainian citizen | 🇨🇭 Living in Zurich area  
+🇨🇭 Living in Zurich area  
 💻 Interested in real-world development, automation, and building useful products
 
-I enjoy working close to the code — from low-level systems and backend logic to web interfaces, mobile apps, and small tools that solve real problems.  
+I enjoy working from low-level systems and backend logic to web interfaces, mobile apps, and small tools that solve real problems.  
 I’m especially motivated by projects where I can **learn fast, build things end-to-end, and improve through practice**.
 
 ---
@@ -70,15 +70,15 @@ I’m especially motivated by projects where I can **learn fast, build things en
 ---
 
 ## 🌍 Languages
-- **Ukrainian / Russian** — Native  
+- **German** — C1
 - **English** — Fluent  
-- **German** — C1  
+- **Ukrainian / Russian** — Native
 
 ---
 
 ## 📫 Contact & Links
 - 📧 Email: **danylokv@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/danylo-kovalenko-5606322b8/
+- 💼 LinkedIn: https://www.linkedin.com/in/danylo-kov
 - 🌐 Portfolio: https://danylokv.pages.dev/
 
 ---
