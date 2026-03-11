@@ -9,7 +9,7 @@ I’m especially motivated by projects where I can **learn fast, build things en
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills what I have used:
 
 ### 🔧 Low-Level & Systems Programming
 - **C**
@@ -17,15 +17,19 @@ I’m especially motivated by projects where I can **learn fast, build things en
 - **Bash scripting**
 
 ### ⚙️ Backend, APIs & Infrastructure
-- **Node.js**
 - **JavaScript**
 - **PHP**
+- **Python**
+- **Java**
+- SQLAlchemy
+- Fast API
 - REST APIs
 - Automation scripts
 
 ### 🧩 Frontend & Web
 - **HTML5**
 - **CSS3**
+- **JavaScript** Logic
 - Responsive layouts
 - Landing pages
 
@@ -54,10 +58,10 @@ I’m especially motivated by projects where I can **learn fast, build things en
 ---
 
 ## 🚀 What I’m Currently Doing
-- Building and publishing **iOS apps**
+- Building a **SAAS** for devs
 - Creating small **web projects & APIs**
-- Participating in **hackathons and game jams**
-- Improving system-level and backend skills
+- Participating in **hackathons and game jams** (when they're good)
+- Improving and learning **backend skills**
 
 ---
 
